@@ -1,0 +1,2 @@
+redshift=0.034
+ThetaObs=0.1

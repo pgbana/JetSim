@@ -1,0 +1,17 @@
+accurancy=5
+M_BH=3e8
+log_gam_min=0
+log_gam_max=9
+gam_ax_size=9
+log_eps_min=-20
+log_eps_max=5
+eps_ax_size=28
+eps_ic_min=1e-12
+eps_syn_max=1e-5
+Phi_size=5
+cosPsi_size=8
+theta_size=7
+log_z_min=-1
+log_z_max=7
+z_size=8
+u_size=10

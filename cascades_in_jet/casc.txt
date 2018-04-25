@@ -1,0 +1,7 @@
+gammaN=30000
+stepN=10000
+t_inj=3e3
+Emin=0.1
+Emax=10.
+si=1.801
+syn_fraction=600
